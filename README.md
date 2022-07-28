@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Sabrina from Austria and I am a chemical laboratory technician and I'm working on becoming a developer.
-
+I'm Sabrina from Austria and I am a chemical laboratory technician and student. During my studies i had applied computer science and found my interest in it. So now I teach myself programming of different languages and the background which I need for understandig the whole computer stuff. My goal in the future is to become a developer. :smile:
 
 - 🌱 I’m currently working on The Odin Project
 - ⚡ I’m currently learning HTML, CSS and JavaScript
